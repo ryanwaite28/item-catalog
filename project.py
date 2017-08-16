@@ -185,8 +185,8 @@ def gdisconnect():
 
 @app.route('/')
 def homePage():
-	''' Loads Restaurants and MenuItems, Then Render Them
-	To The Home Page '''
+	# Loads Restaurants and MenuItems, Then Render Them To The Home Page
+
     restaurants = session.query(Restaurant).all()
     items = session.query(MenuItem).all()
 

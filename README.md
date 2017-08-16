@@ -2,7 +2,7 @@
 
 Deployed on Heroku: https://rmw-udacity-fsnd-item-catalog.herokuapp.com
 
-### Note: One of the dependencies(oauth2client) has been deprecated.
+### Note*: One of the dependencies(oauth2client) has been deprecated.
 
 ## Description
 

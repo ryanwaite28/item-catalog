@@ -200,5 +200,5 @@ def main():
         server.socket_close()
 
 
-if __name__ == '__main__':
-        main()
+# if __name__ == '__main__':
+#         main()
